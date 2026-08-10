@@ -6,7 +6,3 @@ My name is Grace but most of people call me Noxii! <3
 I do things in C# C++ Java and PHP! 
 
 I love cats, biology and cooking!
-
-Discord: noxii_7d 
-
-Stay tuned for coolz stuff!
